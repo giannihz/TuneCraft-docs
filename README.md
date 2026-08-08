@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/giannihz/TuneCraft-docs/main/banner.png" width="900">
+</p>
+
 <h1 align="center">🎵 TuneCraft</h1>
 
 <p align="center">
